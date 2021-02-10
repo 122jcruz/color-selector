@@ -1,0 +1,36 @@
+.sc {
+  width: 20%;
+  height: auto;
+}
+.logo {
+  width: 30%;
+  height: auto;
+}
+.search {
+  width: 50%;
+}
+.shopname {
+  font-family: "Dosis", sans-serif;
+}
+.price {
+  font-family: "Abel", sans-serif;
+}
+.swatch {
+  border: 1px solid #bbb;
+  display: inline-block;
+  width: 7%;
+  height: auto;
+  margin: 0;
+  margin-right: calc(4% - 3px);
+  cursor: pointer;
+}
+#product-photo {
+  width: 90%;
+  box-shadow: 0 16px 20px 0 #bfbfbf;
+}
+.selected {
+  border-color: rgb(46, 8, 8);
+}
+.stars {
+  width: 20%;
+}
